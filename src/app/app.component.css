@@ -1,0 +1,11 @@
+#case-container {
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    display:none;
+}
+
+#search-bar-container {
+    display:none;
+}
